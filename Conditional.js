@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
-class App extends Component {
+class Conditional extends Component {
   render() {
     const value = 3;
     return (
