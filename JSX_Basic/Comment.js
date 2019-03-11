@@ -18,4 +18,4 @@ class Comment extends Component {
   }
 }
 
-export default App;
+export default Comment;
