@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class App extends Component {
+class Css extends Component {
   render() {
     const style = {
       backgroundColor: 'black',
@@ -16,4 +16,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Css;
